@@ -54,3 +54,29 @@ e- Calvo, Carlos:
 366 git status
 367 git commit
 368 git push
+
+Nicolas Diaz:
+c-Es posible actualizar el repositorio al de ALFA, pero se encuentra un conflicto con el archivo fork.txt
+
+ e- Pueden agregar lo mío:
+Díaz, Lautaro Nicolás
+389 git clone http://github.com/Nicodc96/TP_SO_i2_9
+390 git add .
+391 cd TP_SO_i2_9/
+392 git add .
+393 git commit -m "Archivo fork.txt modificado"
+394 git push
+395 git pull
+396 git pull https://github.com/tomas28/TP_SO_i2_9.git
+397 cd
+398 cd Desktop/
+399 cd CLASE\ 4/Repositorio\ Local/
+400 git pull https://github.com/tomas28/TP_SO_i2_9.git
+401 git pull https://github.com/tomas28/TP_SO_i2_9
+402 git pull https://github.com/tomas28/TP_SO_i2_9.git
+403 cd TP_SO_i2_9/
+404 git pull https://github.com/tomas28/TP_SO_i2_9.git
+405 git pull https://github.com/carlospcalvo/TP_SO_i2_9
+406 ls
+407 ls -h
+408 history
